@@ -1,0 +1,10 @@
+"sandboximproved"
+{
+	"base" 		""
+	"title" 	"Sandbox Improved"
+	"maps" 		"^gm_"
+	"category"	"other"
+	"menusystem"	"1"
+
+	"settings"	{}
+}
